@@ -1,0 +1,24 @@
+#navbar {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+#navbar-left {
+  display: flex;
+  width: 70%;
+  
+}
+#navbar-left p{
+    margin-left: 2%;
+    
+}
+#navbar-right>p{
+    margin-left: 8%;
+    
+}
+#navbar-right {
+  display: flex;
+  width: 10%;
+  
+
+}

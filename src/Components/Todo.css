@@ -1,0 +1,35 @@
+#line {
+  background-color: orange;
+  width: 60px;
+  height: 10px;
+  border: none;
+  margin-left: 2%;
+  display: block;
+ 
+  
+}
+#line1 {
+    background-color: blue;
+    width: 60px;
+    height: 10px;
+    border: none;
+    margin-left: 2%;
+    display: block;
+   
+    
+  }
+#Todo-card {
+  width: 25%;
+  background-color: lightgray;
+  height: 100%;
+  margin-left: 1%;
+}
+#card_todo {
+  background-color: white;
+  margin-left: 2%;
+  margin-right: 2%;
+  /* margin-top: -5%; */
+ 
+  text-align: left;
+}
+
